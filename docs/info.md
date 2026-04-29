@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## It should work...
 
-Explain how your project works
+It should work
 
 ## How to test
 
-Explain how to use your project
+Testing
 
 ## External hardware
 
